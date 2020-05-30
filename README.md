@@ -1,5 +1,5 @@
 # spring-cloud-circuit-breaker
-Created this repo to learn how to implement Hystrix circuit breaker in spring boot.
+Created this repo to implement Hystrix circuit breaker in spring boot.
 
 ## circuit-breaker-bookstore
 1. This microservice gives the list of recommended reading books.
